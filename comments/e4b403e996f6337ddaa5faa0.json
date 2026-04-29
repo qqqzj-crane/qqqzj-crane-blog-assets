@@ -1,7 +1,7 @@
 {
   "version": 1,
   "term": "post:2026-04-29-重磅上线评论功能",
-  "updatedAt": "2026-04-29T08:59:02.794Z",
+  "updatedAt": "2026-04-29T09:59:18.449Z",
   "comments": [
     {
       "id": "80e5d8f2-6367-4b3f-bf61-490703aa8500",
@@ -26,9 +26,9 @@
         "maskedEmail": "",
         "accountCreatedAt": "",
         "accountUpdatedAt": "",
-        "publicRepos": "",
-        "followers": "",
-        "following": ""
+        "publicRepos": 0,
+        "followers": 0,
+        "following": 0
       },
       "createdAt": "2026-04-29T06:09:44.058Z",
       "updatedAt": "2026-04-29T06:09:44.058Z"
@@ -56,9 +56,9 @@
         "maskedEmail": "",
         "accountCreatedAt": "",
         "accountUpdatedAt": "",
-        "publicRepos": "",
-        "followers": "",
-        "following": ""
+        "publicRepos": 0,
+        "followers": 0,
+        "following": 0
       },
       "createdAt": "2026-04-29T06:25:47.010Z",
       "updatedAt": "2026-04-29T06:25:47.010Z"
@@ -86,9 +86,9 @@
         "maskedEmail": "",
         "accountCreatedAt": "",
         "accountUpdatedAt": "",
-        "publicRepos": "",
-        "followers": "",
-        "following": ""
+        "publicRepos": 0,
+        "followers": 0,
+        "following": 0
       },
       "createdAt": "2026-04-29T06:28:21.412Z",
       "updatedAt": "2026-04-29T06:28:21.412Z"
@@ -116,9 +116,9 @@
         "maskedEmail": "",
         "accountCreatedAt": "",
         "accountUpdatedAt": "",
-        "publicRepos": "",
-        "followers": "",
-        "following": ""
+        "publicRepos": 0,
+        "followers": 0,
+        "following": 0
       },
       "createdAt": "2026-04-29T06:32:06.281Z",
       "updatedAt": "2026-04-29T06:32:06.281Z"
@@ -146,9 +146,9 @@
         "maskedEmail": "",
         "accountCreatedAt": "",
         "accountUpdatedAt": "",
-        "publicRepos": "",
-        "followers": "",
-        "following": ""
+        "publicRepos": 0,
+        "followers": 0,
+        "following": 0
       },
       "createdAt": "2026-04-29T08:07:23.079Z",
       "updatedAt": "2026-04-29T08:07:23.079Z"
@@ -176,12 +176,42 @@
         "maskedEmail": "",
         "accountCreatedAt": "",
         "accountUpdatedAt": "",
-        "publicRepos": "",
-        "followers": "",
-        "following": ""
+        "publicRepos": 0,
+        "followers": 0,
+        "following": 0
       },
       "createdAt": "2026-04-29T08:59:02.794Z",
       "updatedAt": "2026-04-29T08:59:02.794Z"
+    },
+    {
+      "id": "94f631eb-c29f-4a5f-851b-a3ab13c4f91a",
+      "parentId": "",
+      "body": "qzj超牛逼",
+      "author": {
+        "id": "email:a98fd5ab0b53c16ef196835bdffbda31",
+        "provider": "email",
+        "login": "◉‿◉",
+        "name": "◉‿◉",
+        "avatarUrl": "",
+        "role": "commenter",
+        "githubId": "",
+        "profileUrl": "",
+        "htmlUrl": "",
+        "email": "",
+        "blog": "",
+        "company": "",
+        "location": "",
+        "bio": "",
+        "twitterUsername": "",
+        "maskedEmail": "33***@qq.com",
+        "accountCreatedAt": "",
+        "accountUpdatedAt": "",
+        "publicRepos": 0,
+        "followers": 0,
+        "following": 0
+      },
+      "createdAt": "2026-04-29T09:59:18.449Z",
+      "updatedAt": "2026-04-29T09:59:18.449Z"
     }
   ]
 }
