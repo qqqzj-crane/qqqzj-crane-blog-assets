@@ -1,13 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29T09:33:52.095Z",
+  "updatedAt": "2026-04-29T13:10:15.834Z",
   "blockedUsers": [],
-  "sensitiveWords": [
-    {
-      "word": "邱梓鋆",
-      "createdAt": "2026-04-29T09:33:50.589Z",
-      "createdBy": "qqqzj-crane",
-      "source": ""
-    }
-  ]
+  "sensitiveWords": []
 }
