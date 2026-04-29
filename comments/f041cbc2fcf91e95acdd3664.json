@@ -1,10 +1,11 @@
 {
   "version": 1,
   "term": "post:2026-04-28-我迷失在了黑夜里",
-  "updatedAt": "2026-04-29T05:10:17.191Z",
+  "updatedAt": "2026-04-29T05:14:16.996Z",
   "comments": [
     {
       "id": "4376f583-beaf-4181-a045-90659ac7c378",
+      "parentId": "",
       "body": "好难受，我好像快死了",
       "author": {
         "login": "qqqzj-crane",
@@ -13,17 +14,6 @@
       },
       "createdAt": "2026-04-29T04:53:22.475Z",
       "updatedAt": "2026-04-29T04:53:22.475Z"
-    },
-    {
-      "id": "16932cd1-d53b-4016-98ac-1d90ae71350c",
-      "body": "？",
-      "author": {
-        "login": "qqqzj-crane",
-        "name": "qqqzj",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/232515059?v=4"
-      },
-      "createdAt": "2026-04-29T05:09:33.352Z",
-      "updatedAt": "2026-04-29T05:09:33.352Z"
     }
   ]
 }
