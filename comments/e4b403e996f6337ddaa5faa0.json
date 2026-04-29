@@ -1,7 +1,7 @@
 {
   "version": 1,
   "term": "post:2026-04-29-重磅上线评论功能",
-  "updatedAt": "2026-04-29T06:09:44.058Z",
+  "updatedAt": "2026-04-29T06:22:11.982Z",
   "comments": [
     {
       "id": "80e5d8f2-6367-4b3f-bf61-490703aa8500",
@@ -10,11 +10,23 @@
       "author": {
         "login": "qqqzj-crane",
         "name": "qqqzj",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/232515059?v=4",
-        "role": "owner"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/232515059?v=4"
       },
       "createdAt": "2026-04-29T06:09:44.058Z",
       "updatedAt": "2026-04-29T06:09:44.058Z"
+    },
+    {
+      "id": "3500587f-2c5c-4f3c-a191-2b7d5968e69e",
+      "parentId": "",
+      "body": "ai你无敌了",
+      "author": {
+        "login": "qqqzj-crane",
+        "name": "qqqzj",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/232515059?v=4",
+        "role": "owner"
+      },
+      "createdAt": "2026-04-29T06:22:11.981Z",
+      "updatedAt": "2026-04-29T06:22:11.981Z"
     }
   ]
 }
