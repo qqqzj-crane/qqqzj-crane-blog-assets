@@ -1,7 +1,7 @@
 {
   "version": 1,
   "term": "post:2026-04-29-重磅上线评论功能",
-  "updatedAt": "2026-04-29T06:25:47.010Z",
+  "updatedAt": "2026-04-29T06:28:21.412Z",
   "comments": [
     {
       "id": "80e5d8f2-6367-4b3f-bf61-490703aa8500",
@@ -22,11 +22,23 @@
       "author": {
         "login": "Trae645",
         "name": "",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/276322327?v=4",
-        "role": "editor"
+        "avatarUrl": "https://avatars.githubusercontent.com/u/276322327?v=4"
       },
       "createdAt": "2026-04-29T06:25:47.010Z",
       "updatedAt": "2026-04-29T06:25:47.010Z"
+    },
+    {
+      "id": "8698ec61-fe87-4547-8d25-e6604e2db2d4",
+      "parentId": "510ed446-b523-4889-98ce-400cfb502f73",
+      "body": "6啥呢你",
+      "author": {
+        "login": "qqqzj-crane",
+        "name": "qqqzj",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/232515059?v=4",
+        "role": "owner"
+      },
+      "createdAt": "2026-04-29T06:28:21.412Z",
+      "updatedAt": "2026-04-29T06:28:21.412Z"
     }
   ]
 }
